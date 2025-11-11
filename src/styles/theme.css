@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #1e90ff;
+    --bg-color: #ffffff;
+    --text-color: #222222;
+    --nav-bg: #f8f8f8;
+}
+
+.dark {
+    --primary-color: #1e90ff;
+    --bg-color: #121212;
+    --text-color: #ffffff;
+    --nav-bg: #1a1a1a;
+}
